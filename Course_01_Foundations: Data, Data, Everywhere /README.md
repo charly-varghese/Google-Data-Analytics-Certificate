@@ -74,7 +74,7 @@ Program: Google Data Analytics Professional Certificate
 Platform: Coursera
 Status: ✅ Successfully Completed
 Certificate: Verified
-----------------------
+--------------
 📁 Repository Context --
 This folder is part of a structured, end-to-end learning and portfolio repository documenting the full Google Data Analytics Professional Certificate.
 
