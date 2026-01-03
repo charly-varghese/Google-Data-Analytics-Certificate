@@ -95,5 +95,3 @@ Certificate: Verified
 📁 Repository Context
 
 This folder is part of a structured, end-to-end learning and portfolio repository documenting the complete Google Data Analytics Professional Certificate.
-
-
