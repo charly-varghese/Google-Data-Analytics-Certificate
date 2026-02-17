@@ -1,12 +1,13 @@
 # 📊 Course 06 — Share Data Through the Art of Visualization  
-**Google Data Analytics Professional Certificate**
+### Google Data Analytics Professional Certificate
 
 ---
 
 ## 📌 Course Overview
 
-Course 06 focuses on transforming raw data into meaningful visual stories.  
-It strengthens the ability to communicate insights clearly using visualizations, dashboards, and structured presentations.
+Course 06 focuses on transforming analytical results into clear, compelling visual stories.  
+
+It strengthens the ability to communicate insights effectively using visualization principles, dashboard design, and structured presentations.
 
 This course bridges the gap between:
 
@@ -14,7 +15,7 @@ This course bridges the gap between:
 - Visual communication  
 - Business decision-making  
 
-The primary objective was to convert analytical results into actionable insights using effective design principles and storytelling techniques.
+The objective is to convert analytical findings into actionable insights using professional design and storytelling techniques.
 
 ---
 
@@ -22,7 +23,7 @@ The primary objective was to convert analytical results into actionable insights
 
 After completing this course, I am able to:
 
-- Select appropriate visualizations based on data type and business objective  
+- Select appropriate visualizations based on data type and business objectives  
 - Distinguish between correlation and causation  
 - Apply essential visual design principles  
 - Build interactive dashboards in Tableau  
@@ -37,9 +38,9 @@ After completing this course, I am able to:
 
 ---
 
-## 🟢 Module 01 — Visualize Data
+### 🟢 Module 01 — Visualize Data
 
-### Key Concepts
+#### Key Concepts
 
 - Correlation vs Causation  
 - Chart selection using decision trees  
@@ -64,17 +65,17 @@ After completing this course, I am able to:
 - Alternative text usage  
 - Avoiding misleading or deceptive visuals  
 
-### Skills Developed
+#### Skills Developed
 
 - Choosing the right chart type  
-- Designing clear, ethical visualizations  
+- Designing clear and ethical visualizations  
 - Highlighting key information effectively  
 
 ---
 
-## 🟢 Module 02 — Create Data Visualizations with Tableau
+### 🟢 Module 02 — Create Data Visualizations with Tableau
 
-### Key Concepts
+#### Key Concepts
 
 - Tableau Public setup and navigation  
 - Understanding Dimensions vs Measures  
@@ -100,7 +101,7 @@ After completing this course, I am able to:
   - Data blending  
 - Filters and diverging color palettes  
 
-### Skills Developed
+#### Skills Developed
 
 - Building interactive dashboards  
 - Linking multiple data sources  
@@ -109,9 +110,9 @@ After completing this course, I am able to:
 
 ---
 
-## 🟢 Module 03 — Craft Data Stories
+### 🟢 Module 03 — Craft Data Stories
 
-### Key Concepts
+#### Key Concepts
 
 - Data storytelling framework  
 - McCandless Method:
@@ -124,7 +125,7 @@ After completing this course, I am able to:
 - Logical dashboard structuring  
 - Narrative flow development  
 
-### Skills Developed
+#### Skills Developed
 
 - Translating analysis into business insights  
 - Structuring dashboards for clarity  
@@ -132,9 +133,9 @@ After completing this course, I am able to:
 
 ---
 
-## 🟢 Module 04 — Develop Presentations & Slideshows
+### 🟢 Module 04 — Develop Presentations & Slideshows
 
-### Key Concepts
+#### Key Concepts
 
 - Slide deck structure:
   - Title & subtitle  
@@ -153,7 +154,7 @@ After completing this course, I am able to:
 - Preparing for Q&A sessions  
 - Presentation frameworks  
 
-### Skills Developed
+#### Skills Developed
 
 - Delivering executive-level presentations  
 - Communicating technical insights simply  
@@ -202,14 +203,14 @@ This course strengthened my ability to move from:
 
 **Analyzing data → Communicating insights strategically**
 
-It enhances my capability to present data clearly to non-technical stakeholders and support business decisions through structured storytelling.
+It enhanced my capability to present data clearly to non-technical stakeholders and support business decisions through structured storytelling.
 
 ---
 
 ## 📜 Certification
 
-Course 06 successfully completed.  
-Certificate uploaded in this repository.
+- Course 06 — Successfully Completed  
+- Certificate uploaded in the `Certificates/` folder  
 
 ---
 
@@ -225,4 +226,3 @@ Certificate uploaded in this repository.
 - Repository Updated  
 - Certificate Uploaded  
 - README — GitHub Optimized  
-
