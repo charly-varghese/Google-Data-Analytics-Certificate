@@ -131,7 +131,7 @@ It reflects structured, disciplined, and end-to-end training aligned with indust
 
 ## 👤 Author
 
-**Varghese**  
+**Charly Varghese**  
 Data Analytics Professional  
 Google Data Analytics Professional Certificate – Fully Completed  
 
